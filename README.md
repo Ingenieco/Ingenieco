@@ -5,18 +5,6 @@
 
 [BIT](https://bitinstitute.online/)
 
-## Introdução
-
-## Conteúdo
-
- - [Apresentação de proposta]()
- - [Área de estudo]()
- - [Imagens - índices]()
- - [Detecção de objetos - Rotulação]()
- - [Modelagem]()
- - [Avaliação]()
-
-
 ## Autores
 - [Carlos Gutiérrez - @ingenieco](https://github.com/Ingenieco)
 
