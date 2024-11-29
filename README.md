@@ -3,7 +3,7 @@
 
 ## BIT- IBERO
 
-[BIT](https://bitinstitute.online/) - Universidad Federal do Ceará
+[BIT](https://bitinstitute.online/)
 
 ## Introdução
 
